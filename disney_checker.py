@@ -330,7 +330,45 @@ Write.Print(f"""
 """, Colors.purple_to_blue, interval=0.000)
 time.sleep(2)
 print("\n\n\n")
-accounts = []
+accounts = [porfy_napoli.93@hotmail.it : Posfo-2703
+
+eliab3augustopt@gmail.com : 3599 0039eE@
+
+laurenttourenne@orange.fr : Juchrovila2000
+
+l.m.orsolya@gmail.com : 02040608O
+
+jrubin19@hotmail.com : 091200Jrc@rmrs
+
+jhonatan4808@gmail.com : joya1718
+
+jimmykimkids@outlook.com : Jimmykim1310@
+
+prime.2021gt@gmail.com : COM BOM_GT5
+
+filipandreipro@ gmail.com : Filipini2012
+
+honzawimmer@post.cz : Pepa5321AKuba6321
+
+kim@100nx.dk : William2012
+
+kferreira_sp@hotmail.com : Kelly255481
+
+myriamtheil@yahoo.fr : Disneyplustoulouse31@cyril@
+
+btpshop.com : Btpshop0630@
+
+stickf11@hotmail.com : Davidsuperheroe18
+
+benjambo51@hotmail.com : Napalm76
+
+williambirtwell376@gmail.com : Minecraft5678
+
+luismaugustinr@gmail.com : Lio5lmar1972
+
+matthewandywong@icloud.com : Lauren1214
+
+magazin_one@yahoo.com : anasta29SIA]
 
 with open('accounts.txt', 'r') as file:
     for line in file:
